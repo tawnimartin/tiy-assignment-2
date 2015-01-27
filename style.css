@@ -4,14 +4,16 @@ body {
   font-size: 15px;
   line-height: 20px;
 }
-.box1 {
+.box {
   padding: 10px;
-  margin: 5px;
+  margin: 0 10px 0 0;
   display: inline-block; 
   border-radius: 4px;
   background: #e6e9ec;
   float: left;
-  margin: 0 20px;
+  margin: 5px 5px;
+  height: 200px;
+  width: 300px;
 }
 li {
   margin: 0 20px 0 0;
@@ -22,4 +24,21 @@ h2 {
   padding: 0 0 0 10px;
   font-style: italic;
   color: #141d4d;
+}
+.box2 {
+
+}
+.box3 {
+  clear:left;
+}
+.box4 {
+
+}
+.footer {
+  display: display-block;
+  height: 40px;
+  float: left;
+  clear: left;
+  width: 100%;
+  background: #e6e9ec;
 }
