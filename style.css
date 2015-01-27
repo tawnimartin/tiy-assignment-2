@@ -1,3 +1,25 @@
 body {
 	background-color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+}
+.box1 {
+  padding: 10px;
+  margin: 5px;
+  display: inline-block; 
+  border-radius: 4px;
+  background: #e6e9ec;
+  float: left;
+  margin: 0 20px;
+}
+li {
+  margin: 0 20px 0 0;
+  padding: 0 5px 3px 0;
+}
+h2 {
+  font-size: 15px;
+  padding: 0 0 0 10px;
+  font-style: italic;
+  color: #141d4d;
 }
